@@ -2,6 +2,10 @@
 Review and study tutorial : https://scrimba.com/learn/d3js/introduction-to-d3-c2bB4hN
 
 
+![image](https://user-images.githubusercontent.com/80292608/135730470-03d506df-fc2d-4be5-923a-d7019f233c9e.png)
+
+
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
