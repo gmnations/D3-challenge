@@ -1,4 +1,6 @@
 # D3 Homework - Data Journalism and D3
+Review and study tutorial : https://scrimba.com/learn/d3js/introduction-to-d3-c2bB4hN
+
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
