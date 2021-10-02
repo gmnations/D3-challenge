@@ -8,6 +8,10 @@ Review and study tutorial : https://scrimba.com/learn/d3js/introduction-to-d3-c2
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
+After js coding.
+
+![image](https://user-images.githubusercontent.com/80292608/135731413-8f0b5625-e7ae-4ac5-8e03-7433fb269f28.png)
+
 ## Background
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
