@@ -1,6 +1,9 @@
 # D3 Homework - Data Journalism and D3
 Review and study tutorial : https://scrimba.com/learn/d3js/introduction-to-d3-c2bB4hN
 
+Running on :8000
+![image](https://user-images.githubusercontent.com/80292608/135731678-0bf6a504-a6b9-4982-9d23-5328dd05b2fd.png)
+
 
 ![image](https://user-images.githubusercontent.com/80292608/135730470-03d506df-fc2d-4be5-923a-d7019f233c9e.png)
 
