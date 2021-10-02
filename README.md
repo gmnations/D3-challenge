@@ -8,6 +8,11 @@ After js coding.
 
 ![image](https://user-images.githubusercontent.com/80292608/135731413-8f0b5625-e7ae-4ac5-8e03-7433fb269f28.png)
 
+Interactive: selected AGE.
+
+![image](https://user-images.githubusercontent.com/80292608/135731526-d4da4402-aeaa-4b82-838e-50dd8e12140a.png)
+
+
 ## Background
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
